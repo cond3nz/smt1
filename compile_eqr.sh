@@ -1,0 +1,1 @@
+g++ -o BIN/eigen_qr eigen_qr_dense.cc

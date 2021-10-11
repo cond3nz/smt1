@@ -1,0 +1,1 @@
+gfortran-4.8 -o BIN/ani2d_ps2 ani2d_pgmres_skit_ilu2.f08 toolkit/libilu-3.1.a toolkit/libskit.a toolkit/blas_LINUX.a  
