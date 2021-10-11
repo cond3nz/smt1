@@ -10,7 +10,6 @@ methode=8
 open(10,file="../sparse_matrixs/4.dat")
 read(10,*) n
 print *,"n = ",n
-print *,"Hello World!"
 
 !parameters for GMRES
       m   = 100
